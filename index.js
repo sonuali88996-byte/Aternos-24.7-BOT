@@ -91,10 +91,10 @@ function createBot() {
   let newBot;
   try {
     newBot = mineflayer.createBot({
-      host: SERVER_HOST,
-      port: SERVER_PORT,
-      username: BOT_USERNAME,
-      version: MC_VERSION,
+      host: "sgp1.bytenut.cc",
+      port: "7720",
+      username: "Bluebird_Gaurd",
+      version: "1.21.11",
       auth: 'offline',
       hideErrors: false,
     });
