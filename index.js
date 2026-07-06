@@ -91,8 +91,8 @@ function createBot() {
   let newBot;
   try {
     newBot = mineflayer.createBot({
-      host: "141.11.237.3",
-      port: "25618",
+      host: "144.31.46.4",
+      port: "10335",
       username: "Bluebird_Gaurd",
       version: "1.21.11",
       auth: 'offline',
